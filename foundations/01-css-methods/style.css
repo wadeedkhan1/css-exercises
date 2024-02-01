@@ -4,3 +4,7 @@ div{
     text-align: center;
     font-size: 30px;
 }
+
+p{
+    background-color: tomato;
+}
